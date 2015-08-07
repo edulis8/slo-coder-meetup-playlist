@@ -1,5 +1,6 @@
 # slo-coder-meetup-playlist
-The SLO Code Meetup, July 11th/2015. Arrays and Objects Live Coding Session. Playlist Challenge.
+
+A project with the SLO Code Meetup, July 11th/2015. Arrays and Objects Live Coding Session: Playlist Challenge.
 
 My first "program" creating a randomized playlist, using arrays and objects in Javascript.
 
@@ -11,15 +12,15 @@ For today’s project, you are going to make a song playlist.  Rather than actua
 
 Your program must have the following functionality:
 
-    Your program must display the title, artist and album name of a song to the console when it is “played.”
+  1. Your program must display the title, artist and album name of a song to the console when it is “played.”
 
-    Your program must display this information for all songs in your playlist
+  2. Your program must display this information for all songs in your playlist
 
-    Your program must not display any songs that have already been played.
+  3.  Your program must not display any songs that have already been played.
 
-    Your program must stop when all the songs in your playlist have been played.
+  4.  Your program must stop when all the songs in your playlist have been played.
 
-    Songs should be played in random order.
+  5.  Songs should be played in random order.
 
 
 

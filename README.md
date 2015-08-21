@@ -4,5 +4,5 @@ And SLO Code Meetup, August 8/2015. Live Coding - Beginning jQuery
 
 see project here: http://edulisgardens.com/projects/silentsong/
 
-Readme1 has the instructions for the July 11th challenge.
-Readme2 has the instructions for the August 8th challenge.
+READMEchallenge1 has the instructions for the July 11th challenge.
+READMEchallenge2 has the instructions for the August 8th challenge.
